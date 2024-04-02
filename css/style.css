@@ -40,7 +40,7 @@ nav{
     border: 1px solid #ccc;
 }
 
-#dsa,#html,#css,#js,#jquery,#bootstrap{
+#dsa,#html,#css,#js,#jquery,#bootstrap,#ajax,#sql,#php{
     width: 0;
     height: 30px;
     border-radius: 15px;
